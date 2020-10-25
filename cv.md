@@ -19,6 +19,6 @@ Passionate for learning and eager to start a career in the field of front-end de
 1. **Education:**
 Dutch Delta University, Deventer, Netherlands: Bachelor of Business Administration
 Marbella Design Academy, Marbella, Spain: Graphic/Fashion Design
-Online learning: BangBangEducation ‘Modern Web’, ‘Programming language: what is it?’, lynda.com ‘JS Basics’, Enforex Marbella: Spanish language (A2).
+Online learning: BangBangEducation ‘Modern Web’, ‘Programming language: what is it?’, lynda.com ‘JS Basics’, 'Computer Science Basic', Enforex Marbella: Spanish language (A2).
 
 1. **English level:** B1 (according to EPAM test).
