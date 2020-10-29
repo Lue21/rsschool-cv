@@ -2,3 +2,67 @@ body {
     max-width: 1024px; 
     margin: auto; 
 }
+
+img {
+    float: right; 
+    display: block;
+}
+
+h1 {
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #B22222;
+}
+
+h2 {
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202020;
+}
+
+h3 {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: floralwhite;
+    background-color: #4682B4;
+    width: 320px;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #606060;
+    padding: 10px;
+    font-size: 17px;
+    line-height: 25px;
+}
+
+header, section {
+    width: 680px; margin: auto;
+}
+
+.contacts {
+    font-family: Arial, Helvetica, sans-serif;
+    color: dimgrey;
+    padding: 3px;
+}
+
+.article {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    color: #404040;
+    line-height: 27px;
+    font-size: 20px;
+}
+
+a:link {
+    font-size:16px; color: #606060;
+}
+a:visited {
+    font-size:16px; color:DarkRed
+}
+a:hover {
+    font-size:16px; color:Tomato
+}
