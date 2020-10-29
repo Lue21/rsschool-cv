@@ -71,11 +71,13 @@ a:link {
 }
 a:visited { 
   font-size:16px; 
-  color:DarkRed }
+  color:DarkRed; 
+}
 
 a:hover { 
   font-size:16px; 
-  color:Tomato }
+  color:Tomato; 
+}
 
 section {
   display: flex;
