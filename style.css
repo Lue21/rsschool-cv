@@ -47,7 +47,7 @@ section {
 
 h1 {
   padding-bottom: 5px;   
-  text-align: left;
+  text-align: center;
   font-size: 41px;
   font-family: Arial, Helvetica, sans-serif;
   color: #003333;
@@ -60,7 +60,7 @@ h2 {
 }
 
 h3 {
-  text-align: left;
+  text-align: center;
   padding: 10px;
   font-size: 15px;
   font-family: Arial, Helvetica, sans-serif;
@@ -121,14 +121,8 @@ a:hover {
 }
 
 @media screen and (max-width: 900px) {
+.header {flex-direction: column}  
 
-  .header {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-
-  }
-  
 .mainPhoto {
     max-width: 50%;
     display: Flex;
@@ -156,15 +150,15 @@ a:hover {
     font-family: Arial, Helvetica, sans-serif;
     color: #ffffff;
     background-color: #3d3d3dc5;
-    
   }
 
   .contacts {
     display: grid;
-    flex-direction: row; 
+    grid-auto-flow: column;
     font-family: Arial, Helvetica, sans-serif;
     margin: auto;
-  }
+    text-align: center; 
+ }
 
   .iconTel {
     width: 20px; 
@@ -179,9 +173,5 @@ a:hover {
     width: 20px; 
     height: 20px;
     vertical-align: bottom;
-
   }
-  
-
-
 }
